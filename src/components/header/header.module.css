@@ -1,0 +1,7 @@
+.bg_desktop {
+    background-image: url(../../assets/images/bg-header-desktop.svg);
+    width: 100%;
+    max-width: 100%;
+    min-height: 100px;
+    height: 100%;
+}

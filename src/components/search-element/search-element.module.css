@@ -1,0 +1,38 @@
+.item_element {
+    padding: 0 6px;
+}
+
+.element {
+    display: flex;
+    border: 2px solid rgb(12, 154, 154);
+    width: 100%;
+    height: 31px;
+    border-radius: 6px;
+    align-items: center;
+    justify-content: space-between;
+    margin: 5px;
+}
+
+.text {
+    color: rgb(12, 154, 154);
+    padding: 5px;
+}
+
+.remove {
+    cursor: pointer;
+    background-color: black;
+    padding: 4px;
+    position: relative;
+    width: 26px;
+    height: 26px;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+}
+
+.remove__img {
+    top: 25%;
+    left: 25%;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+}
