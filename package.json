@@ -1,6 +1,6 @@
 {
   "name": "example_filter",
-  "homepage": "https://gitname.github.io/react-gh-pages",
+  "homepage": "https://danya0ryaba.github.io/example_redux_filter",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -22,7 +22,7 @@
     "web-vitals": "^2.1.0"
   },
   "scripts": {
-    "predeploy": "yarn add build",
+    "predeploy": "yarn run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
